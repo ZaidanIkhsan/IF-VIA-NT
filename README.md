@@ -54,7 +54,7 @@ Contoh struktur direktori sebagai *berikut:*
 
 ## Modul Praktikum 👁‍🗨
 
-- [Modul Praktikum :octocat:](https://github.com/SI4019/Panduan-Praktikum-SI4019/tree/main/1-Panduan-GIT)
+- [Modul Praktikum GIT :octocat:](https://github.com/SI4019/Panduan-Praktikum-SI4019/tree/main/1-Panduan-GIT)
 
 ## Referensi 🕵️‍♂️
 
