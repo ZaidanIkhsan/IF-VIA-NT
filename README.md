@@ -62,6 +62,7 @@ Contoh struktur direktori sebagai *berikut:*
 2. [git-scm.com/doc](https://git-scm.com/doc)
 3. [betterexplained.com/articles/](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
 4. [conecting github with ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+5. [repository untuk belajar berkontribusi pada open source](https://github.com/firstcontributions/first-contributions)
 
 
 ## Contributors ✨
