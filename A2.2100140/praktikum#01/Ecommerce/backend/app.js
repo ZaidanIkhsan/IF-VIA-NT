@@ -31,7 +31,7 @@ const api = process.env.API_URL;
 app.use(`${api}/categories`, categoriesRoutes);
 app.use(`${api}/products`, productRoutes);
 app.use(`${api}/users`, userRoutes);
-app.use(`${api}/products`, ordersRoutes);
+app.use(`${api}/orders`, ordersRoutes);
 
 mongoose.connect(process.env.CONNECTION_STRING)
 .then(()=>{
